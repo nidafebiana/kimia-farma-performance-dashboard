@@ -20,6 +20,18 @@ This project provides a data-driven analysis of Kimia Farma’s performance from
 
 ---
 
+## 📁 Project Structure
+
+Kimia_Farma_Dashboard/
+│
+├── Dataset/                # Raw & cleaned dataset
+├── img/                    # Dashboard screenshots
+├── README.md
+├── Kimia_Farma.sql
+└── Kimia_Farma_Report.pdf
+
+---
+
 ## 🗺️ Data Flow
 1. Upload raw CSV dataset to **Google Cloud Storage**  
 2. Load data into **BigQuery tables**  
@@ -41,9 +53,31 @@ Here’s the main dashboard view showcasing Kimia Farma’s sales, profit, ratin
 ---
 
 ## 💡 Key Insights
-- Highest sales and profit contributions come from **Western Indonesia** (West Java, Sumatra).  
-- **Customer rating** shows a positive correlation with **branch profitability**.  
-- **Analgesics, anti-inflammatory, and psycholeptic drugs** dominate top product categories.  
+
+![Kimia Farma Perfomance](img/yearly_sales_overview.png)
+*Figure 2: Kimia Farma Yearly Sales Overview*
+
+1.Total Net Sales reached IDR 321.2 billion and Net Profit was IDR 91.2 billion, with total transactions exceeding 672,000 in the 2020–2023 period.
+2. An average customer rating of 4.0 indicates a relatively stable customer experience, but still requires improvement.
+3. Based on the Yearly Sales Overview, Kimia Farma's revenue decreased by 0.5% in 2021, as the second wave of COVID-19 depressed sales activity. Revenue increased again in 2022 by 0.67%, but then declined slightly by 0.57% in 2023, indicating that the company's performance has not fully stabilized even after the pandemic has ended.
+> Revenue fluctuations between years indicate external or operational factors affecting business performance.
+
+![Kimia Farma Perfomance](img/region_overview.png)
+*Figure 3: Kimia Farma Regional Perfomance*
+
+1. West Java was the largest contributor to transactions, Net Profit, and Net Sales, followed by North Sumatra, Central Java, East Java, North Sulawesi, and Riau.
+2. High transaction activity in densely populated areas indicates significant market potential in western Indonesia.
+> The dominant contribution was in western Indonesia. This suggests that expansion strategies and service optimization should be focused primarily on high-demand provinces to increase efficiency and strengthen Kimia Farma's market position nationally.
+
+![Kimia Farma Perfomance](img/rating_gap.png)
+*Figure 4: Kimia Farma Rating Perfomance*
+
+1. Several branches such as Pematangsiantar, Jambi, Sorong, Batam and Cilacap have a high gap rating (0.7–0.8), meaning they have a good reputation but customers rate their transaction experience as low, which may be due to service issues.
+
+![Kimia Farma Perfomance](img/ratingprofit.png)
+*Figure 5: Kimia Farma Rating vs Profit Perfomance*
+
+1. The correlation between ratings and profits shows a weak positive relationship. Therefore, the focus should be on improving service only in branches with a high rating gap.
 
 ---
 
@@ -64,6 +98,7 @@ Data Enthusiast
 🔗 [LinkedIn Profile](www.linkedin.com/in/nida-febiana)
 
 ---
+
 
 
 
