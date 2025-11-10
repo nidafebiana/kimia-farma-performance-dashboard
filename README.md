@@ -24,8 +24,8 @@ This project provides a data-driven analysis of Kimia Farma’s performance from
 
 ```Kimia_Farma_Dashboard/
 │
-├── Dataset/                # Raw & cleaned dataset
-├── img/                    # Dashboard screenshots
+├── 📁 Dataset                 # Raw & cleaned dataset
+├── 📁 img                     # Dashboard screenshots
 ├── README.md
 ├── Kimia_Farma.sql
 └── Kimia_Farma_Report.pdf```
@@ -103,6 +103,7 @@ Data Enthusiast
 🔗 [LinkedIn Profile](www.linkedin.com/in/nida-febiana)
 
 ---
+
 
 
 
