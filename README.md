@@ -32,7 +32,7 @@ This project provides a data-driven analysis of Kimia Farma’s performance from
 ## 📊 Dashboard Preview
 Here’s the main dashboard view showcasing Kimia Farma’s sales, profit, rating, and product performance:
 
-![Kimia Farma Dashboard](img/DB_KF.png)
+![Kimia Farma Dashboard](img/DB KF.png)
 *Figure 1: Kimia Farma Performance Dashboard in Looker Studio*
 
 
@@ -64,6 +64,7 @@ Data Enthusiast
 🔗 [LinkedIn Profile](www.linkedin.com/in/nida-febiana)
 
 ---
+
 
 
 
