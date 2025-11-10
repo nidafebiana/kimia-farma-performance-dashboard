@@ -32,7 +32,7 @@ This project provides a data-driven analysis of Kimia Farma’s performance from
 ## 📊 Dashboard Preview
 Here’s the main dashboard view showcasing Kimia Farma’s sales, profit, rating, and product performance:
 
-![Kimia Farma Dashboard](imf/KF DB.png)
+![Kimia Farma Dashboard](img/DB KF.png)
 
 > Built using **BigQuery** and **Looker Studio**, this dashboard highlights yearly sales trends, top-performing regions, rating–profit correlations, and product category insights.
 
@@ -62,6 +62,7 @@ Data Enthusiast
 🔗 [LinkedIn Profile](www.linkedin.com/in/nida-febiana)
 
 ---
+
 
 
 
