@@ -25,9 +25,10 @@ This project provides a data-driven analysis of Kimia Farma’s performance from
 ```
 Kimia_Farma_Dashboard/
 │
-├── Dataset/
-├── img/
-└── README.md
+├── 📁 img                      # Dashboard screenshots
+├── Kimia_Farma.sql          # BigQuery SQL scripts
+├── Kimia_Farma_Report.pdf   # Final analytical report
+└── README.md                # Project documentation
 ```
 
 
@@ -103,6 +104,7 @@ Data Enthusiast
 🔗 [LinkedIn Profile](www.linkedin.com/in/nida-febiana)
 
 ---
+
 
 
 
