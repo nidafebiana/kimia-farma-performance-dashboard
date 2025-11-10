@@ -29,6 +29,8 @@ Kimia_Farma_Dashboard/
 ├── README.md
 ├── Kimia_Farma.sql
 └── Kimia_Farma_Report.pdf
+
+
 ---
 
 ## 🗺️ Data Flow
@@ -101,6 +103,7 @@ Data Enthusiast
 🔗 [LinkedIn Profile](www.linkedin.com/in/nida-febiana)
 
 ---
+
 
 
 
