@@ -29,7 +29,6 @@ Kimia_Farma_Dashboard/
 ├── README.md
 ├── Kimia_Farma.sql
 └── Kimia_Farma_Report.pdf
-
 ---
 
 ## 🗺️ Data Flow
@@ -55,6 +54,7 @@ Here’s the main dashboard view showcasing Kimia Farma’s sales, profit, ratin
 ## 💡 Key Insights
 
 ![Kimia Farma Perfomance](img/yearly_sales_overview.png)
+
 *Figure 2: Kimia Farma Yearly Sales Overview*
 
 1.Total Net Sales reached IDR 321.2 billion and Net Profit was IDR 91.2 billion, with total transactions exceeding 672,000 in the 2020–2023 period.
@@ -63,6 +63,7 @@ Here’s the main dashboard view showcasing Kimia Farma’s sales, profit, ratin
 > Revenue fluctuations between years indicate external or operational factors affecting business performance.
 
 ![Kimia Farma Perfomance](img/region_overview.png)
+
 *Figure 3: Kimia Farma Regional Perfomance*
 
 1. West Java was the largest contributor to transactions, Net Profit, and Net Sales, followed by North Sumatra, Central Java, East Java, North Sulawesi, and Riau.
@@ -70,11 +71,13 @@ Here’s the main dashboard view showcasing Kimia Farma’s sales, profit, ratin
 > The dominant contribution was in western Indonesia. This suggests that expansion strategies and service optimization should be focused primarily on high-demand provinces to increase efficiency and strengthen Kimia Farma's market position nationally.
 
 ![Kimia Farma Perfomance](img/rating_gap.png)
+
 *Figure 4: Kimia Farma Rating Perfomance*
 
 1. Several branches such as Pematangsiantar, Jambi, Sorong, Batam and Cilacap have a high gap rating (0.7–0.8), meaning they have a good reputation but customers rate their transaction experience as low, which may be due to service issues.
 
 ![Kimia Farma Perfomance](img/ratingprofit.png)
+
 *Figure 5: Kimia Farma Rating vs Profit Perfomance*
 
 1. The correlation between ratings and profits shows a weak positive relationship. Therefore, the focus should be on improving service only in branches with a high rating gap.
@@ -94,10 +97,11 @@ Here’s the main dashboard view showcasing Kimia Farma’s sales, profit, ratin
 ## 👩‍💻 Author
 **Nida Febiana**  
 Data Enthusiast  
-📧 [febiananida@gmail.com@gmail.com]  
+📧 [febiananida@gmail.com]  
 🔗 [LinkedIn Profile](www.linkedin.com/in/nida-febiana)
 
 ---
+
 
 
 
