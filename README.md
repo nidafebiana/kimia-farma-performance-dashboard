@@ -42,17 +42,14 @@ Here’s the main dashboard view showcasing Kimia Farma’s sales, profit, ratin
 - Highest sales and profit contributions come from **Western Indonesia** (West Java, Sumatra).  
 - **Customer rating** shows a positive correlation with **branch profitability**.  
 - **Analgesics, anti-inflammatory, and psycholeptic drugs** dominate top product categories.  
-- Recommendation: Strengthen top-performing branches, optimize OTC product stock, and improve service quality consistency.
 
 ---
 
-## 🚀 Strategic Forecast (2024)
-| Focus Area | Target / Goal |
-|-------------|---------------|
-| **Revenue Growth** | +3% Year-over-Year |
-| **Average Customer Rating** | Increase from 4.0 → 4.2 |
-| **Regional Expansion** | Focus on West Java, East Java, and Sumatra |
-| **Product Optimization** | +5% sales contribution from Analgesic & Antipyretic categories |
+## Recommendation
+1. Focus on expanding services, product stock, and marketing campaigns in the western region of Indonesia while gradually starting to reach the eastern market.
+2. Standardize service SOPs and conduct frontline training at branches with the highest gap ratings to improve service quality.
+3. Strengthen supply control on high-demand products while developing promotions in other potential health categories.
+4. Actively use the dashboard for regional performance monitoring, branch evaluation, and more efficient product stock planning.
 
 > “Kimia Farma 2024 will focus on sustainable growth through regional expansion, customer experience enhancement, and product portfolio optimization — powered by data-driven insights.”
 
@@ -60,9 +57,10 @@ Here’s the main dashboard view showcasing Kimia Farma’s sales, profit, ratin
 
 ## 👩‍💻 Author
 **Nida Febiana**  
-Data Analyst | Business Intelligence Enthusiast  
-📧 [your.email@gmail.com]  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/)
+Data Enthusiast  
+📧 [febiananida@gmail.com@gmail.com]  
+🔗 [LinkedIn Profile](www.linkedin.com/in/nida-febiana)
 
 ---
+
 
